@@ -1,0 +1,11 @@
+http://128.101.13.45/.jhon.php
+http://138.201.136.183/.jhon.php
+https://recruitment.bestinet.com.my/.jhon.php
+http://35.161.10.140/.jhon.php
+http://117.120.1.62/.jhon.php
+http://www.firstformation.com/.jhon.php
+
+#ssh session
+
+
+ssh jhon@138.201.136.183 -p 20038
